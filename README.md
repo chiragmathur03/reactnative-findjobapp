@@ -7,7 +7,7 @@ An application for job seekers that utilizes the Rapid API to retrieve informati
 
 ## App Link
 https://expo.dev/%40tusked/FirstProject?serviceType=classic&distribution=expo-go \
-or Scan the Code\
+or Scan the Code using Expo Go App\
 ![image](https://github.com/chiragmathur03/reactnative-findjobapp/assets/54184768/99defa88-7412-4830-b728-b6a60c957975)
 
 
