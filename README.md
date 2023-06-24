@@ -1,23 +1,28 @@
 # Find Job App
-![Alt text](view.png)
-
 An application for job seekers that utilizes the Rapid API to retrieve information about job availability.
 
+![image](https://github.com/chiragmathur03/reactnative-findjobapp/assets/54184768/be0119f2-685e-4282-ab42-57d3dfcfde93)
+
+
+
 ## App Link
-https://expo.dev/%40tusked/FirstProject?serviceType=classic&distribution=expo-go
-or
-![Alt text](app.png)
+https://expo.dev/%40tusked/FirstProject?serviceType=classic&distribution=expo-go \
+or Scan the Code\
+![image](https://github.com/chiragmathur03/reactnative-findjobapp/assets/54184768/99defa88-7412-4830-b728-b6a60c957975)
+
+
+
 
 ## Technologies Used
-React Native
-Axios - To Fetch API from RapidAPI
-Expo Router
-Search & Pagination Functionality
+* React Native,
+* Axios - To Fetch API from RapidAPI,
+* Expo Router,
+* Search & Pagination Functionality
 
 ## Setup/Installation
-npm 9.6.7
-node v18.16.0
-Expo 6.3.7
+* npm 9.6.7,
+* node v18.16.0,
+* Expo 6.3.7
 
 ## 🚀 How to use
 
