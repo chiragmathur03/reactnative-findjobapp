@@ -27,7 +27,7 @@ const JobSearch = () => {
                 method: "GET",
                 url: `https://jsearch.p.rapidapi.com/search`,
                 headers: {
-                    "X-RapidAPI-Key": 'd78210fb67mshfde7aaae86e3611p108cc9jsnd6744dbf6fad',
+                    "X-RapidAPI-Key": 'fdeccd78dfmshb2eab298a26b052p18e6b8jsn7d86c03c9e5a',
                     "X-RapidAPI-Host": "jsearch.p.rapidapi.com",
                 },
                 params: {
@@ -66,9 +66,10 @@ const JobSearch = () => {
                 options={{
                     headerStyle: { backgroundColor: COLORS.lightWhite },
                     headerShadowVisible: false,
+                    headerBackVisible: false,
                     headerLeft: () => (
                         <ScreenHeaderBtn
-                            iconUrl={icons.left}
+                            iconURL={icons.left}
                             dimension='60%'
                             handlePress={() => router.back()}
                         />

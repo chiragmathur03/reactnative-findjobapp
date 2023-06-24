@@ -7,7 +7,7 @@ import { Company, JobAbout, JobFooter, JobTabs, ScreenHeaderBtn, Specifics } fro
 import { COLORS, icons, SIZES } from '../../constants';
 import useFetch from '../../hook/useFetch';
 
-const tabs = ['About', 'Qualification', 'Responsibilities'];
+const tabs = ['About', 'Qualifications', 'Responsibilities'];
 
 const JobDetails = () => {
     // going to allow us to get the specific ID of the job Details page we're on
